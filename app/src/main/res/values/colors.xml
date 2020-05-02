@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0CCDB4</color>
+    <color name="colorPrimaryDark">#241F2C</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!--<color name="colorPrimary">#241F2C</color>
+    <color name="colorPrimaryDark">#0CCDB4</color>
+    <color name="colorAccent">#D81B60</color>
+-->
+    <color name="colorGrey">#F5F5F5</color>
+    <color name="colorToolbar">#241F2C</color>
+    <color name="colorAppName">#4C4C4C</color>
+    <color name="colorEditTextLogin">#696073</color>
+    <color name="colorBtnLogin">#F7F000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorFetchingOrders">#5A7BE5</color>
+
+    <color name="cell_background">#dddddd</color>
+    <color name="black_2">#140f26</color>
+    <color name="grey_2">#979797</color>
+
+
+</resources>

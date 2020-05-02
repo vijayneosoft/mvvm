@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">OBhaiyya Vendor</string>
+
+    <string name="preference_name">Preference Name</string>
+
+
+    <string name="next">Next</string>
+    <string name="login">Login</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="enter_new_number">Enter Mobile Number</string>
+    <string name="field_cannot_empty">Fields cannot be empty</string>
+
+    <string name="otp_not_verified">OTP not verified</string>
+
+    <string name="error_valid_number">Please enter valid number</string>
+
+    <string name="exit_confirm">Confirm Exit</string>
+    <string name="close_application">Are you want to close this application?</string>
+
+    <string name="title_online">Online</string>
+
+
+</resources>
